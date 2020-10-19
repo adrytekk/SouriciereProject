@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Teleport
   - DeathPlane
+  - EndCube
   layers:
   - Default
   - TransparentFX
